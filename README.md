@@ -17,6 +17,7 @@ Run this Python file to get the .exe of road sign recognition system.
 
 ## Display  
 ![](display/图片1.png)  
-![](display/login.png)  
-![](display/photo.png)  
+
+## Others
+if you only want to use road sign recognition function, you only need to modify the TSR.py.
   
