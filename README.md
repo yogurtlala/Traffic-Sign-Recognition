@@ -15,6 +15,8 @@ Run this Python file to get the .exe of road sign recognition system.
 * Modify the connection address of the relevant database in the code
 * Run the hello.py
 
-## Display
-![](display/photo.png)
+## Display  
+![](display/图片1.png)  
+![](display/login.png)  
+![](display/photo.png)  
   
